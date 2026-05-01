@@ -1,6 +1,3 @@
 # ESP32 Experiments
 
-This repository contains my experiments with ESP32, sensors, and embedded systems.
-
-## Projects
-- LED Control
+Documenting my exploration of embedded systems and IoT using ESP32 — building and testing real-world interactions between hardware and software.
